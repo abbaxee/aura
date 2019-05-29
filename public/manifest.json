@@ -1,8 +1,7 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
-  "icons": [
-    {
+  "name": "GDG Lafia",
+  "short_name": "GDG Lafia",
+  "icons": [{
       "src": "./img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
@@ -15,7 +14,7 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffff",
+  "background_color": "#fff",
   "theme_color": "#0277bd",
-  "description": "Aura is the website template that helps you to set GDG's Communities website with events, team and management in a few minutes."
+  "description": "A site to keep you update on news about GDG Lafia"
 }

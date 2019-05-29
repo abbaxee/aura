@@ -1,4 +1,12 @@
-[
+[{
+    "name": "Auwal MS",
+    "designation": "Software Engineer",
+    "twitter": "https://twitter.com/auwalms",
+    "linkedin": "https://www.linkedin.com/in/auwalms",
+    "github": "https://github.com/auwalms",
+    "profileImage": "auwal.jpg",
+    "website": ""
+  },
   {
     "name": "Abdullahi Aliyu",
     "designation": "Software Developer",
@@ -8,15 +16,7 @@
     "profileImage": "abdullahi.jpeg",
     "website": ""
   },
-  {
-    "name": "Auwal MS",
-    "designation": "Software Engineer",
-    "twitter": "https://twitter.com/auwalms",
-    "linkedin": "https://www.linkedin.com/in/auwalms",
-    "github": "https://github.com/auwalms",
-    "profileImage": "auwal.jpg",
-    "website": ""
-  },
+
   {
     "name": "Tasiu Kwaplong",
     "designation": "Web Developer",

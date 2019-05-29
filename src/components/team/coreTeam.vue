@@ -4,8 +4,8 @@
       <v-flex
         xs6
         sm3
-        md2
-        lg2
+        md3
+        lg3
         v-for="(item,i) in TeamDetails"
         :key="i"
         class="text-xs-center"
